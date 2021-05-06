@@ -6,7 +6,7 @@
 {
     display: inline-block;
     margin-right: 30px;
-    
+    background-color: greenyellow;
     
 }
 header nav {
@@ -19,7 +19,7 @@ header nav {
     display: inline-block;
     margin-left: 35px;
     vertical-align: middle;
-    
+    border: 3px solid red;
   }
   nav ul li a {
     
@@ -64,12 +64,17 @@ section div:last-child
     margin-left: 30px;
     padding-right: 20px;
     margin-bottom: 30px;
+    background-color: hotpink;
 }
 section
 {
     width: 1000px;
     position: relative;
     margin-top: 30px;
+    
+    
+    
+    
 }
 footer
 {
@@ -91,6 +96,10 @@ span
     background-color: black;
     color: white;
     margin-top: 30px;
+}
+main
+{
+  padding-inline: 50px;
 }
 
 
